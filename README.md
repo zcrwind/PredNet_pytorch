@@ -5,7 +5,7 @@ An implement of PredNet in pytorch. See the paper [Deep predictive coding networ
 The [offical code](https://github.com/coxlab/prednet) is implemented via Keras, and the project website can be found at [https://coxlab.github.io/prednet/](https://coxlab.github.io/prednet/).
 
 ## Dataset
-The preprocessed KITTI data can be obtained using `downlaod_data.sh from` in [offical code](https://github.com/coxlab/prednet).
+The preprocessed KITTI data can be obtained using `downlaod_data.sh` from in [offical code](https://github.com/coxlab/prednet).
 
 ## How to run
 ### Train model
